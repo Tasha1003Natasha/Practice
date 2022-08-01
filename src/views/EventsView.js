@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import { Outlet } from 'react-router';
-import { Details } from 'components/Details/Details';
 import { EventGallary } from 'components/Eventgallary/Eventgallary';
 import { fetchEvents } from 'service/service';
 

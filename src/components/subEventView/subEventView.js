@@ -1,5 +1,5 @@
-import { useFetchEventById } from 'hooks/useFetchEventById';
+// import { useFetchEventById } from 'hooks/useFetchEventById';
 
 export const SubEventView = () => {
-  const event = useFetchEventById();
+  // const event = useFetchEventById();
 };
